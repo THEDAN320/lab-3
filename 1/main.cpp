@@ -1,6 +1,5 @@
 #include <iostream>
 #include <stdio.h>
-#include <iostream>
 
 int main() {
     using namespace std;
